@@ -18,3 +18,6 @@ Ce mini – projet a pour objectif de faire un programme C permettant de résoud
 -	Une valeur ne peut pas être déplacée vers une case occupée. Ainsi, l’algorithme doit être capable d’indiquer à l’utilisateur si un déplacement est valide ou pas.
 
 -	 Le jeu s’arrête lorsque toutes les valeurs sont à la bonne place.
+
+Petit rappel: 
+- Pour quitter ou redémarrer le jeu, saisir "q" et puis, pour le quitter, entrer "q" et pour le redémarrer, entrer "r".
