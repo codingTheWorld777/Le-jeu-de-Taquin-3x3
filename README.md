@@ -21,3 +21,5 @@ Ce mini – projet a pour objectif de faire un programme C permettant de résoud
 
 Petit rappel: 
 - Pour quitter ou redémarrer le jeu, saisir "q" et puis, pour le quitter, entrer "q" et pour le redémarrer, entrer "r".
+
+JOUEZ-VOUS: https://repl.it/@doHoangKhanh121/Le-jeu-du-taquin#main.c
