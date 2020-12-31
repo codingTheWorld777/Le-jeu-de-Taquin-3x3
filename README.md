@@ -1,13 +1,13 @@
  
-Introduction
+# Introduction
 
-1.	Objectif
+## 1.	Objectif
 
 Ce mini – projet a pour objectif de faire un programme C permettant de résoudre le jeu du taquin. L’objectif est d’amener des valeurs à la bonne position. Donc, l’utilisateur doit indiquer une séquence de déplacements afin d’obtenir la solution finale.
 
 
 
-2.	Principe de la méthode  
+## 2.	Principe de la méthode  
 
 -	L’algorithme considère une grille 3 x 3
 
@@ -19,7 +19,7 @@ Ce mini – projet a pour objectif de faire un programme C permettant de résoud
 
 -	 Le jeu s’arrête lorsque toutes les valeurs sont à la bonne place.
 
-Petit rappel: 
+**Petit rappel:** 
 - Pour quitter ou redémarrer le jeu, saisir "q" et puis, pour le quitter, entrer "q" et pour le redémarrer, entrer "r".
 
-JOUEZ-VOUS: https://repl.it/@doHoangKhanh121/Le-jeu-du-taquin#main.c
+**JOUEZ-VOUS:** https://repl.it/@doHoangKhanh121/Le-jeu-du-taquin#main.c
